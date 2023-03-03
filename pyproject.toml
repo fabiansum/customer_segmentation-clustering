@@ -6,12 +6,16 @@ authors = ["fabiansum <fab.sumarna@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.10"
 jupyter = "^1.0.0"
 plotly = "^5.13.1"
 matplotlib = "^3.7.0"
 scikit-learn = "^1.2.1"
 yellowbrick = "^1.5"
+seaborn = "^0.12.2"
+kaggle = "^1.5.13"
+pathlib = "^1.0.1"
+requests = "^2.28.2"
 
 
 [build-system]

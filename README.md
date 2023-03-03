@@ -1,7 +1,7 @@
 # Customer Segmentation - Online Retail
 
 ## Data Source
-
+This dataset contains all purchases made for an online retail company based in the UK during an eight month period
 https://www.kaggle.com/datasets/vijayuv/onlineretail
 
 ## Business/Marketing Goals
