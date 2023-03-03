@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/vijayuv/onlineretail
 
 ## Business/Marketing Goals
 
-* Reducing customer acquition costs
+* Reducing customer acquisition costs
 * Increasing customer lifetime value
 
 ## Project Description
